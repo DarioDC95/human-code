@@ -4,12 +4,12 @@ APRO L'APP DI NETFLIX
     SE l'app di NETFLIX è chiusa
                 prendo il telecomando
                 seleziono l'app di netflix
-                alla libreria
+                 vado alla libreria
     ALTRIMENTI
-        vai alla libreria
+        vado alla libreria
         
 SE ho meno di un ora
-    guardo un serie-tv su NETFLIX
+    guardo una serie-tv su NETFLIX
     
 ALTRIMENTI 
     guardo un film
@@ -25,6 +25,8 @@ voglio scegliere un genere
                     guardo
                 ALTRIMENTI
                     continuo ad esplorare la libreria del genere
+
+
 
 
     
