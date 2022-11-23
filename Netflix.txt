@@ -2,9 +2,9 @@ VOGLIO GUARDARE NETFLIX
 
 APRO L'APP DI NETFLIX
     SE l'app di NETFLIX è chiusa
-                prendo il telecomando
-                seleziono l'app di netflix
-                 vado alla libreria
+        prendo il telecomando
+        seleziono l'app di netflix
+        vado alla libreria
     ALTRIMENTI
         vado alla libreria
         
